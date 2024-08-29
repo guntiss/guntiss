@@ -1,0 +1,18 @@
+title: DevOps Cheat Codes
+author:
+  name: Guntis Šusts
+  email: guntiss@g4.lv
+remote_theme: jekyll/minima
+description: >
+  This site is where I put snippets from my everyday DevOps adventures, in case it comes in handy in the future.
+
+  Hope you’ll find anything useful here.
+show_excerpts: true
+minima:
+  skin: auto
+  social_links:
+    - { platform: github, user_url: "https://github.com/guntiss" }
+disqus:
+  shortname: guntiss
+header_pages:
+  - about.md
