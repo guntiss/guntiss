@@ -77,3 +77,28 @@ Remap LG remote buttons to useful functions and home automation
 </td>
 </tr>
 </table>
+
+## Immich
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [immich-webos](https://github.com/guntiss/immich-webos)
+
+A webOS TV client for your self-hosted Immich photo and video server, with a fullscreen wallpaper slideshow that turns the TV into a photo frame. A fork of [aneeshtigga/immich-webos](https://github.com/aneeshtigga/immich-webos) with many improvements.
+
+<sub>TypeScript · webOS · Immich</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### [Google Photos → Immich sync](https://github.com/guntiss/gphotos-immich-extension)
+
+A Chrome extension that keeps selected Google Photos shared albums in sync with Immich, in the background, using the Google account you're already signed in to. No server, no OAuth app. Photos Immich already has are detected by checksum and never uploaded twice.
+
+<sub>JavaScript · Chrome extension · Immich</sub>
+
+</td>
+</tr>
+</table>
