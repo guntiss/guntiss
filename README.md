@@ -101,4 +101,18 @@ A Chrome extension that keeps selected Google Photos shared albums in sync with 
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Immich Places](https://github.com/guntiss/immich-places)
+
+<a href="https://github.com/guntiss/immich-places"><img src="https://raw.githubusercontent.com/guntiss/immich-places/HEAD/docs/screenshot.png" width="100%" alt="Immich Places: geotagged photos grouped into places with suggested names"></a>
+
+A browser app that adds precise place names to your geotagged Immich photos. It groups nearby photos without descriptions, looks each group up on OpenStreetMap, and lets you review and approve the names before writing them to the photo descriptions, so street-level places become searchable.
+
+<sub>JavaScript · Node.js · Nominatim · Immich</sub>
+
+</td>
+<td width="50%" valign="top"></td>
+</tr>
 </table>
